@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/5ac4f2af-2f01-45e4-8771-2421484fdc06)
+
 # DaraHaTa
 Lazy Windows event log fast forensics timeline generator and threat hunting script.
 
